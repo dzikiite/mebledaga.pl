@@ -1,4 +1,4 @@
-# impar24.pl
+# mebledaga.pl
 
 Commercial project made for furniture company. 
 
